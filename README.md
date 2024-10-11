@@ -1,6 +1,10 @@
 # Chess
 
-A simple chess game implemented in Python using the Pygame library.
+Original code found at https://github.com/anuragjain-git
+
+A simple self-capture chess game implemented in Python using the Pygame library.
+This is a modification of the original python code created by Anurag Jain. The modifications are really to support being able to capture one's own pieces as well.
+
 It features a basic AI that calculates the optimal move by peeking DEPTH moves ahead. The AI assesses positions and scores only.
 
 ![Untitled video - Made with Clipchamp](https://github.com/anuragjain-git/chess/assets/98457054/bfdea7e5-502b-4852-a2c9-115ea32e45da)
